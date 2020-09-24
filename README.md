@@ -1,5 +1,5 @@
 # Novegacion
- Este repositorio contiene el código necesario para el taller de algoritmos de navegación de la Asociación de Estudiantes de la ETSII(UPM) [Reset](https://www.reset.etsii.upm.es).
+ Este repositorio contiene el código para el taller de algoritmos de navegación de la Asociación de Estudiantes de la ETSII(UPM) [Reset](https://www.reset.etsii.upm.es).
 
 # Instrucciones para empezar:
 1. Instalar python3 (https://www.python.org/downloads/)
