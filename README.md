@@ -13,4 +13,4 @@
 `python main.py`
 
 # Instrucciones de uso
-1. Ir al archivo *robot.py* y crear el método *move* para que se mueva el robot
+1. Ir al archivo *robot.py* y modificar el método *move* para que se mueva el robot
