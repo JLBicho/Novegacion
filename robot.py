@@ -50,9 +50,9 @@ class robot:
 
 		# Update poses, distances, visited and path
 		self.previous_pose = self.pose.__copy__() # copies current pose to previous
-		self.pose.position.x = 0 # <- update 
-		self.pose.position.y = 0 # <- update
-		self.pose.orientation = 'N' # <- update
-		self.distance = self.distance # <- update with settings.dist2robot[??]
+		self.pose.position.x = 0 # <- YOU MUST CHANGE THIS 
+		self.pose.position.y = 0 # <- YOU MUST CHANGE THIS
+		self.pose.orientation = 'N' # <- YOU MUST CHANGE THIS
+		self.distance = self.distance # <- YOU MUST CHANGE THIS with something like settings.dist2robot[??]
 		self.visited.append(self.pose.position.toTuple())
 		settings.path.append(self.pose.__copy__())
